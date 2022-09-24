@@ -1,0 +1,29 @@
+Mobs
+entity.Mario.name=Mario
+entity.Luigi.name=Luigi
+entity.Link.name=Link
+entity.Kirby.name=Kirby
+entity.Hand.name=Master Hand
+entity.Pacman.name=Pacman
+entity.LittleMac.name=Little Mac
+entity.Megaman.name=Megaman
+entity.Samus.name=Samus
+entity.Drmario.name=Dr. Mario
+entity.Cfalcon.name=Captain Falcon
+entity.Fox.name=Fox
+Pokemon
+entity.Pikachu.name=Pikachu
+entity.MewTwo.name=MewTwo
+entity.Charizard.name=Charizard
+
+Items
+item.masterHandTrophy.name=Master Hand Trophy
+item.marioTrophy.name=Mario Trophy
+item.hammer.name=The Hammer
+item.lazerGun.name=Lazer Gun
+item.lazerAmmo.name=Lazer Ammo
+item.smartBomb.name=Smart Bomb
+item.homerunBat.name=Home Run Bat
+item.starman.name=Starman
+item.superscope.name=Super Scope
+item.bobomb.name=Bob-omb
