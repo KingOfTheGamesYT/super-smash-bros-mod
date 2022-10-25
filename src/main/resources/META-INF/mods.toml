@@ -1,0 +1,43 @@
+modLoader="javafml"
+
+loaderVersion="[36,)"
+
+license="All rights reserved"
+
+issueTrackerURL="https://github.com/KingOfTheGamesYT/super-smash-bros-mod/issues"
+
+[[mods]]
+itemIcon="supersmashbros:smart_bomb"
+
+modId="supersmashbros"
+
+version="2.5.1"
+
+displayName="Super Smash Bros Mod"
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/super-smash-bros-mod"
+
+logoFile="smashbros.png"
+
+credits="Nintendo for bringing the best fighting game for parties!"
+
+authors=["RedRoseWarrior1 aka DevMaster1015 for 1.16.5","jawser78 for 1.7.10"]
+
+description='''This is a mod that adds in Smash Characters.'''
+
+# Base Forge
+[[dependencies.supersmashbros]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+# Base Minecraft
+[[dependencies.supersmashbros]]
+    modId="minecraft"
+    mandatory=true
+versionRange="[1.16.5,1.17]"
+    ordering="NONE"
+    side="BOTH"
+
