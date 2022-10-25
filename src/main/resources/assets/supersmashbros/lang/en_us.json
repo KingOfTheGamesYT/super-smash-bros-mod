@@ -1,0 +1,32 @@
+{
+  "_comment": "Mobs",
+  "entity.supersmashbros.mario": "Mario",
+  "entity.supersmashbros.luigi": "Luigi",
+  "entit.supersmashbrosy.link": "Link",
+  "entity.supersmashbros.kirby": "Kirby",
+  "entity.supersmashbros.hand": "Master Hand",
+  "entity.supersmashbros.pacman": "Pacman",
+  "entity.supersmashbros.littlemac": "Little Mac",
+  "entity.supersmashbros.megaman": "Megaman",
+  "entity.supersmashbros.samus": "Samus",
+  "entity.supersmashbros.drmario": "Dr. Mario",
+  "entity.supersmashbros.cfalcon": "Captain Falcon",
+  "entity.supersmashbros.fox": "Fox",
+
+  "_comment": "Pokemon",
+  "entity.supersmashbros.pikachu": "Pikachu",
+  "entity.supersmashbros.mewtwo": "MewTwo",
+  "entity.supersmashbros.charizard": "Charizard",
+
+  "_comment": "Items",
+  "item.supersmashbros.masterhandtrophy": "Master Hand Trophy",
+  "item.supersmashbros.mariotrophy": "Mario Trophy",
+  "item.supersmashbros.hammer": "The Hammer",
+  "item.supersmashbros.lazergun": "Lazer Gun",
+  "item.supersmashbros.lazerammo": "Lazer Ammo",
+  "item.supersmashbros.smartbomb": "Smart Bomb",
+  "item.supersmashbros.homerunbat": "Home Run Bat",
+  "item.supersmashbros.starman": "Starman",
+  "item.supersmashbros.superscope": "Super Scope",
+  "item.supersmashbros.bobomb": "Bob-omb"
+}
